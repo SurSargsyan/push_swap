@@ -24,9 +24,6 @@
       <a href="#-operations-list">📑 Operations List</a>
     <span> · </span>
 	  <a href="#-algorithm">🧮 Algorithm</a>
-    <span> · </span>
-	  <a href="#-bonus-part">🌟 Bonus Part</a>
-    <span> · </span>
       <a href="#-usage">👨‍💻 Usage</a>
   </h3>
 </div>
